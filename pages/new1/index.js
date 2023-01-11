@@ -13,6 +13,7 @@ const Home = () => {
                 got to n3 page
 
             </Link>
+            
             <p>My page is Abdullah</p>
         </div>
     );
