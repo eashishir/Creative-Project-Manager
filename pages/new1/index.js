@@ -11,7 +11,9 @@ const Home = () => {
             <h2>new test home</h2>
             <Link href={'/new1/new2/new3/n3'}>
                 got to n3 page
+
             </Link>
+            <p>My page is Abdullah</p>
         </div>
     );
 };
