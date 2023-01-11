@@ -15,6 +15,7 @@ const Home = () => {
             </Link>
             
             <p>My page is Abdullah</p>
+            <p>Hello world</p>
         </div>
     );
 };
